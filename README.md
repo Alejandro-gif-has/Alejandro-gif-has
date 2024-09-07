@@ -5,8 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+Saber cosas 
 <!---
 Alejandro-gif-has/Alejandro-gif-has is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Información de WhatsApp 
